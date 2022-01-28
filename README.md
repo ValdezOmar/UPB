@@ -35,6 +35,11 @@ Actualmente, la sociedad se encuentra experimentando cambios radicales en los mo
 
 Así como la sociedad se transforma, junto con los cambios que experimenta en su ambiente, el ser humano también lo tiene que hacer; y como individuo y ciudadano que es, debe adaptarse y aprender nuevas herramientas que le permitan ser útil en ese nuevo ámbito y es así como surge la ciudadanía digital. “La ciudadanía digital” podría definirse según indican Ribble, Bailey y Ross [2004] como las “normas de comportamiento que conciernen al uso de la tecnología” y englobaría” los problemas del uso, mal uso y abuso de la tecnología”. 
 
+Características de la Ciudadanía Digital
+
+
+
+
 
 # UPB
 
