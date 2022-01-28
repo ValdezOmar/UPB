@@ -15,6 +15,12 @@ output:
     toc_depth: '3'
 ---
 
+## Integrantes
+
+1. 
+2. PANDIQUE GONGORA DANIEL ALEJAND <dapangique@yahoo.com>
+3. PARDO PEREDO RAIMY BRAYAN <brayan.pardo@live.com>
+4. PINTO SIVILA WALTER PABLO <wp_pinto@altavista.com>
 
 # UPB
 Evaluacion de grupo 
@@ -22,10 +28,3 @@ Integrantes:
 Omar Valdez Muñoz
 Daves Elizardinho Veliz Rojas
 Oscar Castellon Borda
-
-## Experimentación
-
-Aplica los métodos que seleccionaste a los datos que tienes.
-Construye resultados numéricos.
-Presenta gráficos
-Si fuese necesario elabora una infografía con todo el material.
