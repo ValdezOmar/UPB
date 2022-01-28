@@ -17,7 +17,7 @@ output:
 
 ## Integrantes
 
-1. 
+1. Omar Valdez Muñoz omar@outlook.com
 2. PANDIQUE GONGORA DANIEL ALEJAND <dapangique@yahoo.com>
 3. PARDO PEREDO RAIMY BRAYAN <brayan.pardo@live.com>
 4. PINTO SIVILA WALTER PABLO <wp_pinto@altavista.com>
