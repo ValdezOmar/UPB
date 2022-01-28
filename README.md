@@ -22,3 +22,10 @@ Integrantes:
 Omar Valdez Muñoz
 Daves Elizardinho Veliz Rojas
 Oscar Castellon Borda
+
+## Experimentación
+
+Aplica los métodos que seleccionaste a los datos que tienes.
+Construye resultados numéricos.
+Presenta gráficos
+Si fuese necesario elabora una infografía con todo el material.
