@@ -1,7 +1,6 @@
 ---
 title: "Registro de datos de la ciudadania digital en Bolivia"
-
-Bienvenid@ a Ciudadanía Digital, tu acceso a todos los servicios digitales del Estado Plurinacional de Bolivia
+## Bienvenid@ a Ciudadanía Digital, tu acceso a todos los servicios digitales del Estado Plurinacional de Bolivia
 
 author: "Grupo 10"
 subtitle: Estadisticas del registro de la ciudadania Digital en Bolivia
