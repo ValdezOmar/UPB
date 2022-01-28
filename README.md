@@ -53,8 +53,9 @@ métodos adecuados de eliminación de residuos sólidos
 
 Características De Un Ciudadano Inteligente
 En vista de que el ciudadano actual debe adquirir ciertas habilidades para mantenerse activo en este nuevo modelo de producción y empresarial, tendrá que priorizar su aprendizaje en los siguientes aspectos :
-
-
+1. Habilidades de información y comunicación, comúnmente conocido como alfabetización digital. “Tal alfabetización desde nuestro punto de vista, debe facilitar la creación de personas competentes al menos en tres aspectos básicos: manejar instrumentalmente las tecnologías, tener actitudes positivas y realistas para su utilización, y saber evaluar sus mensajes y sus necesidades de utilización.”, es decir, no solo destrezas de tipo instrumental -que sin duda hay que adquirirlas-, sino ir más allá́, al campo de las destrezas cognitivas.
+2. Habilidades de pensamiento y de solución de problemas. A esto se refiere el pensamiento crítico que debe desarrollar un ciudadano con el objetivo de que pueda identificar, formular y solucionar problemas, de forma que pueda opinar y tomar una posición respecto a todo aquello que se va encontrando en la búsqueda de información.
+3.Habilidades interpersonales y de autonomía gracias a los cambios en la sociedad mencionados previamente, la organización empresarial deja a un lado su estructura jerarquizada por una horizontal, de modo que el hombre deberá replantear sus habilidades de colaboración, trabajo en equipo, autorregulación, entre otros..
 
 
 
