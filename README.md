@@ -38,7 +38,7 @@ Oscar Castellon Borda
 marcelo rodriguez Gomez
 
 
-##  Objetivos del programa
+##  Objetivos de la ciudadania digital
 Contribuir con la formación de un ciudadano digital que pueda desenvolverse en el uso correcto de aplicaciones y herramientas tecnológicas en sociedad.
 Impulsar el pensamiento crítico para distinguir fuentes de información validez de las potencialmente dudosas.
 Desarrollar las competencias necesarias para el uso seguro de la información en la web.
