@@ -34,8 +34,8 @@ Evaluacion de grupo
 Integrantes:
 Omar Valdez Muñoz
 Daves Elizardinho Veliz Rojas
-Oscar Castellon Borda
-marcelo rodriguez Gomez
+Oscar Marcelo Castellon Borda
+Marcelo Rodriguez Gomez
 
 
 ##  Objetivos de la ciudadania digital
