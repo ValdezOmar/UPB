@@ -92,3 +92,19 @@ Impulsar el pensamiento crítico para distinguir fuentes de información validez
 Desarrollar las competencias necesarias para el uso seguro de la información en la web.
 Minimizar la brecha digital para lograr la inclusión social de la ciudadanía través del uso correcto de las herramientas tecnológicas.
 Propiciar la innovación cívica para la resolución de problemáticas comunes  y de interés público mediante el uso de las TIC.
+
+LEY Nº 1080 DE 11 DE JULIO DE 2018
+“LEY DE CIUDADANIA DIGITAL”
+
+¿Que regula la Ley?
+La norma tiene por objeto establecer las condiciones y responsabilidades para el acceso pleno y ejercicio de la Ciudadanía Digital, siendo aplicable a todos los ciudadanos y entidades públicas y privadas que presten servicios delegados por el Estado.
+¿En qué consiste la Ciudadanía Digital?
+Consiste en el ejercicio de derechos y deberes a través del uso de tecnologías de información y comunicación en la interacción de las personas con las entidades públicas y privadas que presten servicios delegados por el Estado; por lo que el uso de estas tecnologías, permite prescindir de la presencia de los interesados así como de la documentación física para un trámite.
+¿Quiénes pueden ejercer la  Ciudadanía Digital?
+Pueden ejercer la Ciudadanía Digital, los bolivianos y extranjeros residentes en Bolivia que sean mayores de 18 años y los menores de edad, cuya capacidad sea reconocida conforme a ley, que se encuentren registrados ante las entidades responsables y cuenten con las credenciales de ciudadanía digital.
+¿Qué entidad es la encargada de establecer los lineamientos de Ciudadanía Digital?
+La Agencia de Gobierno Electrónico y Tecnologías de Información y Comunicación – AGETIC, es la entidad que debe desarrollar los lineamientos técnicos del registro para el acceso a ciudadanía digital.
+¿Qué tipo de gestiones se puede realizar con la Ciudadanía Digital?
+La ciudadanía digital permite realizar digitalmente ante entidades públicas y privadas que presten servicios delegados por el Estado, el inicio, gestión y conclusión de trámites, acceso a la administración pública, formar parte de los espacios de participación y control social, también se pueden efectuar pagos si es que los tramites los ameritan y otros de acuerdo a la norma.
+¿Cuál es el valor de los actos realizados a través de la Ciudadanía Digital?
+Todo acto que se desarrolle en el ámbito de la ciudadanía digital, tiene plena validez jurídica, por lo que todos los documentos generados o firmados digitalmente deben ser procesados por las instituciones públicas o privadas delegadas por el Estado, bajo responsabilidad por la función pública; al efecto se permite también que las entidades puedan efectuar notificaciones digitales previa conformidad del administrado.
