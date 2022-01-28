@@ -71,7 +71,6 @@ Alfabetización Digital Y La Ciudadanía Democrática
 Más allá del adjetivo que la acompañe y que hace referencia a las diferentes Tecnologías de la Información y la Comunicación que la humanidad ha ido desarrollando a lo largo de miles de años–, lo sustancial en sentido aristotélico de la alfabetización, de toda alfabetización, es dotar a los individuos de la capacidad de expresar, comunicar, conocer y compartir, a través del lenguaje o los lenguajes, su propia experiencia, la de los demás y la del mundo que le rodea”(Fundación Telefónica, 2012, p.40). Lo anterior quiere decir que es el lenguaje lo que convierte a un hombre en un ciudadano, de allí la estrecha relación entre la alfabetización digital y la ciudadanía digital; puesto que la alfabetización digital se concibe como un derecho de cada ciudadano y aquello que es necesario para el desarrollo democrático, así como el mecanismo que permite evitar desigualdades sociales
 
 
-
 # UPB
 
 
