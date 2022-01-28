@@ -18,9 +18,10 @@ output:
 ## Integrantes
 
 1. Omar Valdez Muñoz omar@outlook.com
-2. PANDIQUE GONGORA DANIEL ALEJAND <dapangique@yahoo.com>
-3. PARDO PEREDO RAIMY BRAYAN <brayan.pardo@live.com>
-4. PINTO SIVILA WALTER PABLO <wp_pinto@altavista.com>
+2. Oscar Marcelo Castellon Borda o.castellon12@gmail.com
+3. Marcelo Rodriguez Gomez marcelorodriguezgomezmrg@gmail.com
+4. Dave daveveliz03@gmail.com
+5. Celia Fuertes Zegarra 
 
 # UPB
 Evaluacion de grupo 
