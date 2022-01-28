@@ -20,7 +20,7 @@ output:
 1. Omar Valdez Muñoz omar@outlook.com
 2. Oscar Marcelo Castellon Borda o.castellon12@gmail.com
 3. Marcelo Rodriguez Gomez marcelorodriguezgomezmrg@gmail.com
-4. Dave daveveliz03@gmail.com
+4. Daves Elizardinho Veliz Rojas daveveliz03@gmail.com
 5. Celia Fuertes Zegarra 
 
 # UPB
