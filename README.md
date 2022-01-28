@@ -26,6 +26,7 @@ Situación Problema
 Resumen
 
 Situación Problema
+Marcos teóricos o métodos aplicables
 
 # UPB
 Evaluacion de grupo 
