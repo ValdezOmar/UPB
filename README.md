@@ -38,4 +38,9 @@ Oscar Castellon Borda
 marcelo rodriguez Gomez
 
 
-## RESULTADOS OBTENIDOS DE LA CIUDADANIA DIGITAL
+##  Objetivos del programa
+Contribuir con la formación de un ciudadano digital que pueda desenvolverse en el uso correcto de aplicaciones y herramientas tecnológicas en sociedad.
+Impulsar el pensamiento crítico para distinguir fuentes de información validez de las potencialmente dudosas.
+Desarrollar las competencias necesarias para el uso seguro de la información en la web.
+Minimizar la brecha digital para lograr la inclusión social de la ciudadanía través del uso correcto de las herramientas tecnológicas.
+Propiciar la innovación cívica para la resolución de problemáticas comunes  y de interés público mediante el uso de las TIC.
