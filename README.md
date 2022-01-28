@@ -43,12 +43,27 @@ uso de contadores inteligentes
 manejo de energías renovables 
 recolección adecuada de agua
 métodos adecuados de eliminación de residuos sólidos
+3. Uso creativo de las asociaciones público-privadas. Importantes porque son una fuente de capital, así como su uso, pues es destinado a la prestación de los servicios públicos y el control del cumplimiento de los estándares del mismo.
+4. Protección y seguridad. Incorpora el uso de: cámaras de vigilancia, iluminación de zonas públicas, patrullaje, verificación de identidad de los ciudadanos, respuesta S.O.S.
+5. Sustentabilidad financiera. Esta es posible cuando se es realizada una planificación pertinente y extensa del uso de todas las fuentes de ingresos como lo son los impuestos de propiedad, anuncios por pago, etc
+6. Participación ciudadana en el gobierno. Para esto es necesario un diseño de foros electorales y participativos como escuelas, lugares comerciales, entretenimiento, áreas públicas, entre otros.
+7. Capital social. Fundamental el nivel apropiado de infraestructuras como lo son: lugares comerciales, lugares deportivos, áreas comunes, hospitales, escuelas, etc. 
+8. Planificación del tránsito. Hace referencia a la conectividad que existe en la red de transporte público, lo que causa una reducción en el uso de vehículos particulares, en donde se busca la implementación del uso de coches eléctricos y vías destinadas para el uso de bicicletas.
+9. Características ecológicas. Se busca proteger el medio ambiente mediante mecanismos que contrarresten el uso de carbono, implementando espacios abiertos verdes, el uso del reciclaje, el uso de energías renovables y la conservación del medio ambiente
+
+Características De Un Ciudadano Inteligente
+En vista de que el ciudadano actual debe adquirir ciertas habilidades para mantenerse activo en este nuevo modelo de producción y empresarial, tendrá que priorizar su aprendizaje en los siguientes aspectos :
+
+
+
 
 
 
 
 
 # UPB
+
+
 
 Evaluacion de grupo 
 Integrantes:
