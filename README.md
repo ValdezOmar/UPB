@@ -26,6 +26,8 @@ output:
 5. Celia Fuertes Zegarra  ccfuertes@gmail.com
 
 Situación Problema
+
+La digitalización es el proceso de transformar procesos analógicos y objetos físicos en digitales, la tecnología digital puede provocar aislamiento y poco contacto físico, las interacciones sociales a escala pueden afectar de forma significativa a la autoestima, la comunicación instantánea aleja a la gente cercana y afecta a núcleos familiares y de amistad.
 Hoy la convivencia y la ciudadanía no se viven sólo cara a cara, sino también a la distancia, mediada por múltiples pantallas, todas ellas junto con Internet y el ciberespacio, son los nuevos escenarios de la vida hoy, trabajamos, estudiamos, viajamos, compramos, y por supuesto, nos fortalecemos o nos debilitamos como seres humanos, lo que en estos espacios se hace no es distinto de lo que se hace fuera de ellos, no son las tecnologías ni las herramientas las que nos dan o nos quitan bienestar, son las relaciones humanas o inhumanas que establecemos.
 
 Marco Teorico
@@ -81,6 +83,7 @@ Omar Valdez Muñoz
 Daves Elizardinho Veliz Rojas
 Oscar Marcelo Castellon Borda
 Marcelo Rodriguez Gomez
+Celia Fuertes
 
 
 ##  Objetivos de la ciudadania digital
