@@ -38,6 +38,11 @@ Así como la sociedad se transforma, junto con los cambios que experimenta en su
 Características de la Ciudadanía Digital
 Una ciudad inteligente es considerada como tal cuando posee las siguientes características:
 1. Incorporación de la tecnología de información y comunicación (TIC) a los servicios públicos. Esto permite facilitar la transparencia, velocidad y participación en los servicios públicos.
+2. Empresas de servicios eficientes. Se refiere el uso de los siguientes aspectos:
+uso de contadores inteligentes
+manejo de energías renovables 
+recolección adecuada de agua
+métodos adecuados de eliminación de residuos sólidos
 
 
 
