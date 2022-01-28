@@ -21,7 +21,7 @@ output:
 2. Oscar Marcelo Castellon Borda o.castellon12@gmail.com
 3. Marcelo Rodriguez Gomez marcelorodriguezgomezmrg@gmail.com
 4. Dave daveveliz03@gmail.com
-5. Celia Fuertes Zegarra 
+5. Celia Fuertes Zegarra  ccfuertes@gmail.com
 
 Situación Problema
 Hoy la convivencia y la ciudadanía no se viven sólo cara a cara, sino también a la distancia, mediada por múltiples pantallas, todas ellas junto con Internet y el ciberespacio, son los nuevos escenarios de la vida hoy. Allí también nos enamoramos, trabajamos, estudiamos, viajamos, compramos, y por supuesto, nos fortalecemos o nos debilitamos como seres humanos, lo que en estos espacios se hace no es distinto de lo que se hace fuera de ellos, no son las tecnologías ni las herramientas las que nos dan o nos quitan bienestar, son las relaciones humanas o inhumanas que establecemos.
