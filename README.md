@@ -102,9 +102,52 @@ En vista de que el ciudadano actual debe adquirir ciertas habilidades para mante
 2. Habilidades de pensamiento y de solución de problemas. A esto se refiere el pensamiento crítico que debe desarrollar un ciudadano con el objetivo de que pueda identificar, formular y solucionar problemas, de forma que pueda opinar y tomar una posición respecto a todo aquello que se va encontrando en la búsqueda de información.
 
 3.Habilidades interpersonales y de autonomía gracias a los cambios en la sociedad mencionados previamente, la organización empresarial deja a un lado su estructura jerarquizada por una horizontal, de modo que el hombre deberá replantear sus habilidades de colaboración, trabajo en equipo, autorregulación, entre otros.
+
+
+# DESAFIOS PAR LOS EDUCADORES
+En las “Orientaciones de Ciudadanía Digital para la Formación Ciudadana” se  ecomienda que las comunidades educativas implementen actividades pedagógicas para que los estudiantes desarrollen las Habilidades TIC para el Aprendizaje (HTPA), que han sido definidas por el Ministerio de Educación como “La capacidad de resolver problemas de información, comunicación y conocimiento, así como dilemas legales, sociales y éticos en ambiente digital”, que actualmente están incluidas en el currículum.
+
+<h3>Son 20 Habilidades Tic para el Aprendizaje (HTPA) que se dividen en 4 dimensiones:<h3>
+ 
+<table>
+  <tr>
+    <th>Dimension Informacion/th>
+    <th>Dimension Comunicacion y Colaboracion</th>
+    <th>Dimension Conviviencia Digital</th>
+    <th>Dimension Tecnologia</th>
+  </tr>
+  <tr>
+    <td>
+    Habilidades
+    1.1 Información como fuente
+     · Definir la información que se necesita.
+     · Buscar y acceder a información.
+     · Evaluar y seleccionar información.
+     · Organizar información.
+    </td>
+    <td>Tobias</td>
+    <td>Linus</td>
+  </tr>
+  <tr>
+    <td>
+      1.2 Información como producto
+     · Planificar la elaboración de un producto
+     de infomación.
+     · Sintetizar información digital.
+     · Comprobar modelos o teoremas en
+     ambiente digital.
+     · Generar un nuevo producto de
+     información.
+    </td>
+    <td>14</td>
+    <td>10</td>
+  </tr>
+</table>
+
 # ANALISIS DE REGISTRO DE TRAMITES DIGITALES EN BOLIVIA
 Durante las gestiones 2020 y 2021 se registro datos del uso de la ciudadania digital, lanzando la siguiente informacion:
 
+  
 ```{r}
 # Cantidad de registros nuevos por la plataforma movil
 bp1 <- read.table("preregistros_portal_v2.csv", header=TRUE, sep=";", stringsAsFactors = FALSE)
