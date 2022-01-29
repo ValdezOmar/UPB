@@ -111,7 +111,7 @@ En las “Orientaciones de Ciudadanía Digital para la Formación Ciudadana” s
  
 <table>
   <tr>
-    <th>Dimension Informacion/th>
+    <th>Dimension Informacion</th>
     <th>Dimension Comunicacion y Colaboracion</th>
     <th>Dimension Conviviencia Digital</th>
     <th>Dimension Tecnologia</th>
@@ -178,6 +178,11 @@ En las “Orientaciones de Ciudadanía Digital para la Formación Ciudadana” s
          ·Dominar aplicaciones de uso más extendido.
     </td>
 </table>
+
+
+### ¿Sabias que?
+Todos quienes hacemos uso de internet tenemos una huella digital, un rastro o retrato de nuestra actividad en línea, una marca que dejamos cada vez que navegamos e interactuamos en internet.
+Lo que compartimos o comentamos en redes sociales, la información que buscamos, las compras que hacemos online, las aplicaciones que usamos desde dispositivos móviles y todas nuestras interacciones vía internet, van formando una recopilación de información que se basa en nuestro comportamiento online y va quedando grabada. 
 
 # ANALISIS DE REGISTRO DE TRAMITES DIGITALES EN BOLIVIA
 Durante las gestiones 2020 y 2021 se registro datos del uso de la ciudadania digital, lanzando la siguiente informacion:
