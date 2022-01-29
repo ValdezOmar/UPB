@@ -107,7 +107,7 @@ En vista de que el ciudadano actual debe adquirir ciertas habilidades para mante
 # DESAFIOS PAR LOS EDUCADORES
 En las “Orientaciones de Ciudadanía Digital para la Formación Ciudadana” se  ecomienda que las comunidades educativas implementen actividades pedagógicas para que los estudiantes desarrollen las Habilidades TIC para el Aprendizaje (HTPA), que han sido definidas por el Ministerio de Educación como “La capacidad de resolver problemas de información, comunicación y conocimiento, así como dilemas legales, sociales y éticos en ambiente digital”, que actualmente están incluidas en el currículum.
 
-<h3>Son 20 Habilidades Tic para el Aprendizaje (HTPA) que se dividen en 4 dimensiones:<h3>
+<h3>Son 20 Habilidades Tic para el Aprendizaje (HTPA) que se dividen en 4 dimensiones:</h3>
  
 <table>
   <tr>
@@ -125,8 +125,29 @@ En las “Orientaciones de Ciudadanía Digital para la Formación Ciudadana” s
      · Evaluar y seleccionar información.
      · Organizar información.
     </td>
-    <td>Tobias</td>
-    <td>Linus</td>
+    <td>
+    Habilidades
+    2.1 Comunicación efectiva
+     · Utilizar protocolos sociales en
+     ambiente digital.
+     · Presentar información en función de
+     una audiencia.
+     · Transmitir información considerando
+     objetivo y audiencia
+    </td>
+    <td>
+    Habilidades
+    3.1 Ética y Autocuidado
+     · Identificar oportunidades y riesgos en
+     ambiente digital y aplicar estrategias
+     de protección de la información
+     personal y la de otros.
+     · Conocer los derechos propios y los de
+     otros y aplicar estrategias de
+     protección de la información en
+     ambiente digital.
+     · Respetar la propiedad intelectual.
+    </td>
   </tr>
   <tr>
     <td>
@@ -139,9 +160,15 @@ En las “Orientaciones de Ciudadanía Digital para la Formación Ciudadana” s
      · Generar un nuevo producto de
      información.
     </td>
-    <td>14</td>
-    <td>10</td>
-  </tr>
+    <td>
+    2.2 Colaboración efectiva
+     · Colaborar con otros a distancia para
+     elaborar un producto de información
+    </td>
+    <td>
+    3.2 TIC y Sociedad
+     · Comprender el impacto social de las TIC.
+    </td>
 </table>
 
 # ANALISIS DE REGISTRO DE TRAMITES DIGITALES EN BOLIVIA
