@@ -21,7 +21,6 @@ output:
 
 <h2>Maestría en Administración de Empresas </h2>
 
-<h3>Supply Chain Management  </h3>
 <hr>
 
 ## Integrantes
@@ -43,6 +42,10 @@ Aparecimiento de la Ciudadania Digital
 Actualmente, la sociedad se encuentra experimentando cambios radicales en los modelos económicos e industriales, así como en los bienes y servicios, gracias a la aparición del desarrollo de las tecnologías de la información y la comunicación, junto con el avance de las ciencias. Es así como, según lo afirma J. Ignacio Aguaded Gómez especialista en tecnología educativa (1999) la tecnología de la información se convirtió en la infraestructura primaria de toda sociedad.
 
 Así como la sociedad se transforma, junto con los cambios que experimenta en su ambiente, el ser humano también lo tiene que hacer; y como individuo y ciudadano que es, debe adaptarse y aprender nuevas herramientas que le permitan ser útil en ese nuevo ámbito y es así como surge la ciudadanía digital. “La ciudadanía digital” podría definirse según indican Ribble, Bailey y Ross [2004] como las “normas de comportamiento que conciernen al uso de la tecnología” y englobaría” los problemas del uso, mal uso y abuso de la tecnología”. 
+
+En ese entendido ¿Que es la ciudadania digital?
+<p>"Es Es el conjunto de conocimientos, habilidades y actitudes fundamentales para que niños, niñas, jóvenes y adultos se desenvuelvan en una sociedad democrática a través del uso de las Tecnologías de Información y Comunicación, de manera responsable, informada, segura, ética, libre y participativa, ejerciendo y reconociendo sus derechos digitales y comprendiendo el impacto de éstas en su vida personal y su entorno"</p>
+
 
 Características de la Ciudadanía Digital
 Una ciudad inteligente es considerada como tal cuando posee las siguientes características:
