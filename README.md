@@ -82,6 +82,10 @@ Alfabetización Digital Y La Ciudadanía Democrática
 
 Más allá del adjetivo que la acompañe y que hace referencia a las diferentes Tecnologías de la Información y la Comunicación que la humanidad ha ido desarrollando a lo largo de miles de años–, lo sustancial en sentido aristotélico de la alfabetización, de toda alfabetización, es dotar a los individuos de la capacidad de expresar, comunicar, conocer y compartir, a través del lenguaje o los lenguajes, su propia experiencia, la de los demás y la del mundo que le rodea”(Fundación Telefónica, 2012, p.40). Lo anterior quiere decir que es el lenguaje lo que convierte a un hombre en un ciudadano, de allí la estrecha relación entre la alfabetización digital y la ciudadanía digital; puesto que la alfabetización digital se concibe como un derecho de cada ciudadano y aquello que es necesario para el desarrollo democrático, así como el mecanismo que permite evitar desigualdades sociales
 
+# DESAFIOS PARA LOS EDUCADORES
+El desarrollo imparable de tecnologías digitales y la democratización en el uso de Internet han transformado también el contexto del proceso educativo, por lo que educar en la era digital implica desafíos nuevos e importantes que los docentes deben ir asumiendo. Las TIC potencian habilidades y competencias propias del siglo XXI que se ejercitan principalmente en las prácticas digitales que los jóvenes llevan a cabo en contextos de aprendizaje informal (en su mayoría en espacios y tiempos de ocio). La manera de aprender ha cambiado y, por ende, la forma de enseñar. 
+
+En las “Orientaciones de Ciudadanía Digital para la Formación Ciudadana” se recomienda que las comunidades educativas implementen actividades pedagógicas para que los estudiantes desarrollen las Habilidades TIC para el Aprendizaje (HTPA), que han sido definidas por el Ministerio de Educación como “La capacidad de resolver problemas de información, comunicación y conocimiento, así como dilemas legales, sociales y éticos en ambiente digital”, que actualmente están incluidas en el currículum.
 
 # UPB
 
