@@ -102,5 +102,45 @@ En vista de que el ciudadano actual debe adquirir ciertas habilidades para mante
 2. Habilidades de pensamiento y de solución de problemas. A esto se refiere el pensamiento crítico que debe desarrollar un ciudadano con el objetivo de que pueda identificar, formular y solucionar problemas, de forma que pueda opinar y tomar una posición respecto a todo aquello que se va encontrando en la búsqueda de información.
 
 3.Habilidades interpersonales y de autonomía gracias a los cambios en la sociedad mencionados previamente, la organización empresarial deja a un lado su estructura jerarquizada por una horizontal, de modo que el hombre deberá replantear sus habilidades de colaboración, trabajo en equipo, autorregulación, entre otros.
+# ANALISIS DE REGISTRO DE TRAMITES DIGITALES EN BOLIVIA
+Durante las gestiones 2020 y 2021 se registro datos del uso de la ciudadania digital, lanzando la siguiente informacion:
 
+```{r}
+# Cantidad de registros nuevos por la plataforma movil
+bp1 <- read.table("preregistros_portal_v2.csv", header=TRUE, sep=";", stringsAsFactors = FALSE)
+barplot( bp1$cantidad_movil ,xlab="Gestiones", ylab="Registros Nuevos", xlim = c(0,3),ylim = c(0,1000), names=(bp1$gestion), main = 'Registros nuevos a traves de la plataforma movil',col = c(2,5,7))
+
+# Cantidad de registros nuevos por la plataforma web
+bp1 <- read.table("preregistros_portal_v2.csv", header=TRUE, sep=";", stringsAsFactors = FALSE)
+barplot( bp1$cantidad_web ,xlab="Gestiones", ylab="Registros Nuevos", xlim = c(0,3),ylim = c(0,200000), names=(bp1$gestion), main = 'Registros nuevos a traves de la plataforma web',col = c(2,5,7))
+
+# Cantidad de registros nuevos en las gestiones 2020 y 2021
+bp1 <- read.table("preregistros_portal_v2.csv", header=TRUE, sep=";", stringsAsFactors = FALSE)
+barplot( bp1$total ,xlab="Gestiones", ylab="Registros Nuevos", xlim = c(0,3),ylim = c(0,200000), names=(bp1$gestion), main = 'Total de registros nuevos de ciudadania digital',col = c(3,6,8))
+
+## Cantidad de tramites realizados por entidad utilizando la ciudadania digital
+bp2 <- read.table("operadores_registro_entidad-1.csv", header=TRUE, sep="|", stringsAsFactors = FALSE)
+barplot(bp2$cantidad_operadores, ylab="Cantidad de tramites", ylim = c(0,150),xlab="Entidades", names=bp2$nombre, main = 'Cantidad de tramites por entidad',las=2, col = c(3,6,8))
+
+## Tramites realizados 
+pie(bp2$cantidad_operadores, labels = bp2$nombre, col = rainbow(9),main = 'Tramites realizados por entidad')
+```
+<h1>RESULTADOS DEL PROGRAMA</h1>
+<div>De acuerdo a los an&aacute;lisis de datos, se tiene un crecimiento exponencial en el registro de nuevos usuarios en la ciudadan&iacute;a digital, teniendo como resultado los datos necesarios para que se pueda implementar nuevas herramientas que proporcionen:</div>
+<div>&bull;<span style="white-space: pre;"> </span>Una plataforma s&oacute;lida, escalable, segura y robusta que permitir&aacute; la integraci&oacute;n e interacci&oacute;n con distintos servicios electr&oacute;nicos.</div>
+<div>&bull;<span style="white-space: pre;"> </span>Informaci&oacute;n importante de inter&eacute;s contenida en un solo medio de almacenamiento eficiente.</div>
+<div>&bull;<span style="white-space: pre;"> </span>Informaci&oacute;n en l&iacute;nea, disponible, accesible, confiable, segura y privada.</div>
+<div>&bull;<span style="white-space: pre;"> </span>Un medio de acercamiento del gobierno hacia la poblaci&oacute;n.</div>
+<div>Con lo beneficios obtenidos los principales beneficiados con la implementaci&oacute;n de nuevos sistemas son:</div>
+<div>&bull;<span style="white-space: pre;"> </span>Poblaci&oacute;n en general</div>
+<div>&bull;<span style="white-space: pre;"> </span>Entidades del Estado</div>
+<div></div>
+<h1>REFERENCIAS BIBLIOGR&Aacute;FICAS</h1>
+<ul>
+<li>https://sites.google.com/site/alfabetidania/caracteristicas-de-la-ciudadania-digital</li>
+<li><a href="https://data.amerigeoss.org/id/dataset/ciudadania-digital1">https://data.amerigeoss.org/id/dataset/ciudadania-digital1</a></li>
+<li><a href="https://tsj.bo/ogp/#normativa">https://tsj.bo/ogp/#normativa</a></li>
+<li><a href="https://coplutic.gob.bo/article29.html">https://coplutic.gob.bo/article29.html</a></li>
+<li>https://www.asfi.gob.bo/images/MARCO_NORMATIVO/SERV_FINAN_/06LEY_N1080.pdf</li>
+</ul>
 
