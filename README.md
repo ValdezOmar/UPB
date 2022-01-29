@@ -118,56 +118,64 @@ En las “Orientaciones de Ciudadanía Digital para la Formación Ciudadana” s
   </tr>
   <tr>
     <td>
-    Habilidades
-    1.1 Información como fuente
-     · Definir la información que se necesita.
-     · Buscar y acceder a información.
-     · Evaluar y seleccionar información.
-     · Organizar información.
+        1.1 Información como fuente
+         · Definir la información que se necesita.
+         · Buscar y acceder a información.
+         · Evaluar y seleccionar información.
+         · Organizar información.
     </td>
     <td>
-    Habilidades
-    2.1 Comunicación efectiva
-     · Utilizar protocolos sociales en
-     ambiente digital.
-     · Presentar información en función de
-     una audiencia.
-     · Transmitir información considerando
-     objetivo y audiencia
+        2.1 Comunicación efectiva
+         · Utilizar protocolos sociales en
+         ambiente digital.
+         · Presentar información en función de
+         una audiencia.
+         · Transmitir información considerando
+         objetivo y audiencia
     </td>
     <td>
-    Habilidades
-    3.1 Ética y Autocuidado
-     · Identificar oportunidades y riesgos en
-     ambiente digital y aplicar estrategias
-     de protección de la información
-     personal y la de otros.
-     · Conocer los derechos propios y los de
-     otros y aplicar estrategias de
-     protección de la información en
-     ambiente digital.
-     · Respetar la propiedad intelectual.
+        3.1 Ética y Autocuidado
+         · Identificar oportunidades y riesgos en
+         ambiente digital y aplicar estrategias
+         de protección de la información
+         personal y la de otros.
+         · Conocer los derechos propios y los de
+         otros y aplicar estrategias de
+         protección de la información en
+         ambiente digital.
+         · Respetar la propiedad intelectual.
+    </td>
+        <td>
+        4.1 Conocimiento TIC
+         · Dominar conceptos TIC básicos
     </td>
   </tr>
   <tr>
     <td>
-      1.2 Información como producto
-     · Planificar la elaboración de un producto
-     de infomación.
-     · Sintetizar información digital.
-     · Comprobar modelos o teoremas en
-     ambiente digital.
-     · Generar un nuevo producto de
-     información.
+          1.2 Información como producto
+         · Planificar la elaboración de un producto
+         de infomación.
+         · Sintetizar información digital.
+         · Comprobar modelos o teoremas en
+         ambiente digital.
+         · Generar un nuevo producto de
+         información.
     </td>
     <td>
-    2.2 Colaboración efectiva
-     · Colaborar con otros a distancia para
-     elaborar un producto de información
+        2.2 Colaboración efectiva
+         · Colaborar con otros a distancia para
+         elaborar un producto de información
     </td>
     <td>
-    3.2 TIC y Sociedad
-     · Comprender el impacto social de las TIC.
+        3.2 TIC y Sociedad
+         · Comprender el impacto social de las TIC.
+    </td>
+    <td>
+        4.2 Colaboración efectiva
+         · Cuidar y realizar un uso seguro del
+         equipamiento.
+         ·Resolver problemas técnicos
+         ·Dominar aplicaciones de uso más extendido.
     </td>
 </table>
 
