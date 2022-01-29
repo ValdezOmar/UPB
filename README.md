@@ -87,19 +87,40 @@ El desarrollo imparable de tecnologías digitales y la democratización en el us
 
 En las “Orientaciones de Ciudadanía Digital para la Formación Ciudadana” se recomienda que las comunidades educativas implementen actividades pedagógicas para que los estudiantes desarrollen las Habilidades TIC para el Aprendizaje (HTPA), que han sido definidas por el Ministerio de Educación como “La capacidad de resolver problemas de información, comunicación y conocimiento, así como dilemas legales, sociales y éticos en ambiente digital”, que actualmente están incluidas en el currículum.
 
+SON 20 HABILIDADES TIC PARA EL APRENDIZAJE (HTPA) QUE SE DIVIDE EN 4 DIMENSIONES:
 <table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>Dimension Informacion</th>
+    <th>Habilidades
+        1.1 Información como fuente
+         <li>Definir la información que se necesita.</li>
+         <li>Buscar y acceder a información.</li>
+         <li>Evaluar y seleccionar información.</li>
+         <li>Organizar información.</li>
+    </th>
+    <th>
+    1.2 Información como producto
+ · Planificar la elaboración de un producto
+ de infomación.
+ · Sintetizar información digital.
+ · Comprobar modelos o teoremas en
+ ambiente digital.
+ · Generar un nuevo producto de
+ información.
+    </th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
+    <td>Dimension Comunicacion y Colaboracion</td>
     <td>Maria Anders</td>
     <td>Germany</td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
+    <td>Dimension Convivencia Digital </td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+  <tr>
+    <td>Dimesion Tecnologica</td>
     <td>Francisco Chang</td>
     <td>Mexico</td>
   </tr>
