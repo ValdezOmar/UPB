@@ -17,6 +17,13 @@ output:
     toc_depth: '3'
 ---
 
+## Trabajo Final del Módulo
+
+<h2>Maestría en Administración de Empresas </h2>
+
+<h3>Supply Chain Management  </h3>
+<hr>
+
 ## Integrantes
 
 1. Omar Valdez Muñoz omar@outlook.com
