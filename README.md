@@ -111,10 +111,10 @@ En las “Orientaciones de Ciudadanía Digital para la Formación Ciudadana” s
  
 <table>
   <tr>
-    <th>Dimension Informacion</th>
-    <th>Dimension Comunicacion y Colaboracion</th>
-    <th>Dimension Conviviencia Digital</th>
-    <th>Dimension Tecnologia</th>
+    <th>1. Dimension Informacion</th>
+    <th>2. Dimension Comunicacion y Colaboracion</th>
+    <th>3. Dimension Conviviencia Digital</th>
+    <th>4. Dimension Tecnologia</th>
   </tr>
   <tr>
     <td>
