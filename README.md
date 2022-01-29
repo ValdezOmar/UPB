@@ -184,6 +184,18 @@ En las “Orientaciones de Ciudadanía Digital para la Formación Ciudadana” s
 Todos quienes hacemos uso de internet tenemos una huella digital, un rastro o retrato de nuestra actividad en línea, una marca que dejamos cada vez que navegamos e interactuamos en internet.
 Lo que compartimos o comentamos en redes sociales, la información que buscamos, las compras que hacemos online, las aplicaciones que usamos desde dispositivos móviles y todas nuestras interacciones vía internet, van formando una recopilación de información que se basa en nuestro comportamiento online y va quedando grabada. 
 
+### Actitudes de un buen ciudadano en la era digital
+<ul>
+ <li>SALUD Y BIENESTAR DIGITAL, Promueve un uso de los dispositivos adecuado a la edad, considerando los riesgos de su uso en la infancia</li>
+ <li>ALFABETIZACION DIGITAL,  Aprovecha las posibilidades que otorga internet para aprender y adquirir competencias útiles para el mundo laboral </li>
+ <li>SEGURIDAD DIGITAL, Toma medidas de seguridad en los dispositivos personales como uso de antivirus y contraseñas</li>
+ <li>ETIQUETA DIGITAL, Respeta la diversidad de opiniones comprendiendo que todas tienen el mismo valor, sin “enganchar” ni promover comentarios negativos o agresivos</li>
+ <li>ACCESO DIGITAL, Recuerda que todos tenemos derecho a acceder a internet, sin importar sexo, cultura o nivel socioeconómico</li>
+ <li>COMUNICACION DIGITAL, Se informa de manera responsable y verifica la información antes de compartirla </li>
+ <li>RESPONSABILIDAD Y DERECHOS DIGITALES, Aprovecha los espacios de participación y creación de comunidad con ideas u objetivos que te representen</li>
+ <li>LEYES DIGITALES, Cumple las normas de comportamiento y leyes asociadas a los sitios web y redes que utilizas</li>
+ <li>COMERCIO DIGITAL, Lee los términos y condiciones cuando compres un producto o des tus datos en un sitio web</li>
+</ul>
 # ANALISIS DE REGISTRO DE TRAMITES DIGITALES EN BOLIVIA
 Durante las gestiones 2020 y 2021 se registro datos del uso de la ciudadania digital, lanzando la siguiente informacion:
 
