@@ -87,6 +87,25 @@ El desarrollo imparable de tecnologías digitales y la democratización en el us
 
 En las “Orientaciones de Ciudadanía Digital para la Formación Ciudadana” se recomienda que las comunidades educativas implementen actividades pedagógicas para que los estudiantes desarrollen las Habilidades TIC para el Aprendizaje (HTPA), que han sido definidas por el Ministerio de Educación como “La capacidad de resolver problemas de información, comunicación y conocimiento, así como dilemas legales, sociales y éticos en ambiente digital”, que actualmente están incluidas en el currículum.
 
+<table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>
+
+
 # UPB
 
 
