@@ -110,4 +110,15 @@ La ciudadanía digital permite realizar digitalmente ante entidades públicas y 
 
 ¿Cuál es el valor de los actos realizados a través de la Ciudadanía Digital
 
-Todo acto que se desarrolle en el ámbito de la ciudadanía digital, tiene plena validez jurídica, por lo que todos los documentos generados o firmados digitalmente deben ser procesados por las instituciones públicas o privadas delegadas por el Estado, bajo responsabilidad por la función pública; al efecto se permite también que las entidades puedan efectuar notificaciones digitales previa conformidad del administrado.
+Todo acto que se desarrolle en el ámbito de la ciudadanía digital, tiene plena validez jurídica, por lo que todos los documentos generados o firmados digitalmente deben ser procesados por las instituciones públicas o privadas delegadas por el Estado, bajo responsabilidad por la función pública; al efecto se permite también que las entidades puedan efectuar notificaciones digitales previa conformidad del administrado.Referencias BibliográficasReferencias Bibliográficas
+
+
+Referencias Bibliográficas
+https://sites.google.com/site/alfabetidania/caracteristicas-de-la-ciudadania-digital
+José Manuel Robles
+Ciudadanía digital. Una introducción a un nuevo concepto de ciudadano
+Barcelona, Editorial UOC, 2009 
+
+
+
+
