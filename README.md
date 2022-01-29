@@ -94,5 +94,13 @@ Una ciudad inteligente es considerada como tal cuando posee las siguientes carac
 8. Planificación del tránsito. Hace referencia a la conectividad que existe en la red de transporte público, lo que causa una reducción en el uso de vehículos particulares, en donde se busca la implementación del uso de coches eléctricos y vías destinadas para el uso de bicicletas.
 
 9. Características ecológicas. Se busca proteger el medio ambiente mediante mecanismos que contrarresten el uso de carbono, implementando espacios abiertos verdes, el uso del reciclaje, el uso de energías renovables y la conservación del medio ambiente.
+### Características De Un Ciudadano Inteligente
+En vista de que el ciudadano actual debe adquirir ciertas habilidades para mantenerse activo en este nuevo modelo de producción y empresarial, tendrá que priorizar su aprendizaje en los siguientes aspectos:
+
+1. Habilidades de información y comunicación, comúnmente conocido como alfabetización digital. “Tal alfabetización desde nuestro punto de vista, debe facilitar la creación de personas competentes al menos en tres aspectos básicos: manejar instrumentalmente las tecnologías, tener actitudes positivas y realistas para su utilización, y saber evaluar sus mensajes y sus necesidades de utilización.”, es decir, no solo destrezas de tipo instrumental -que sin duda hay que adquirirlas-, sino ir más allá́, al campo de las destrezas cognitivas.
+
+2. Habilidades de pensamiento y de solución de problemas. A esto se refiere el pensamiento crítico que debe desarrollar un ciudadano con el objetivo de que pueda identificar, formular y solucionar problemas, de forma que pueda opinar y tomar una posición respecto a todo aquello que se va encontrando en la búsqueda de información.
+
+3.Habilidades interpersonales y de autonomía gracias a los cambios en la sociedad mencionados previamente, la organización empresarial deja a un lado su estructura jerarquizada por una horizontal, de modo que el hombre deberá replantear sus habilidades de colaboración, trabajo en equipo, autorregulación, entre otros.
 
 
